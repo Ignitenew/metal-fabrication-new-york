@@ -1,5 +1,0 @@
-services:
-  - type: web
-    name: metal-fabrication-new-york
-    env: static
-    staticPublishPath: public
